@@ -1,5 +1,7 @@
 # 🌿 Productivity Index
 
+🔗 **[Live Demo](https://productivity-index.vercel.app)**
+
 A personal productivity tracker built with React + TypeScript. Log your daily activities, get a productivity score, and visualize your habits over time with a GitHub-style heatmap.
 
 > Built as a portfolio project — because productivity is personal, and so is this app.
